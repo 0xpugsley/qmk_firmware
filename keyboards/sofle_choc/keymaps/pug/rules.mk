@@ -1,0 +1,6 @@
+ENCODER_ENABLE = yes
+
+TRI_LAYER_ENABLE = yes
+
+RGBLIGHT_ENABLE = no
+# LTO_ENABLE = yes
